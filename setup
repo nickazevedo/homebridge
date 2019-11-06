@@ -1,7 +1,6 @@
 #!/bin/bash
 
 npm install -g --verbose --unsafe-perm homebridge-hue@0.11.42
-npm install -g --verbose --unsafe-perm homebridge-config-ui-x
 npm install -g --verbose --unsafe-perm homebridge-weather-plus
 npm install -g --verbose --unsafe-perm homebridge-camera-ffmpeg
 npm list -g --depth 0
