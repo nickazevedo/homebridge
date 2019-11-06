@@ -1,0 +1,6 @@
+#!/bin/bash
+
+npm install -g --verbose --unsafe-perm homebridge-hue@0.11.42
+npm install -g --verbose --unsafe-perm homebridge-webos-tv
+npm install -g --verbose --unsafe-perm homebridge-nest-schmittx
+npm list -g --depth 0
